@@ -9,7 +9,7 @@ The `is_balanced` function checks whether an input expression containing parenth
 
 #### Usage
 ```python
-from your_module import is_balanced
+from stacks import is_balanced
 
 # Test cases
 expression1 = "([]{})"
