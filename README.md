@@ -37,7 +37,7 @@ print(result)  # Output: [2, 3, 4, 5, 6, 7]
 ### 3. word_frequency Function
 
 ### Description
-The word_frequency function generates a dictionary containing the frequency of each word in a sentence. Punctuation is ignored, and words are treated in a case-insensitive manner.
+The `word_frequency` function generates a dictionary containing the frequency of each word in a sentence. Punctuation is ignored, and words are treated in a case-insensitive manner.
 
 #### Usage
 ```python
